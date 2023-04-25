@@ -317,7 +317,7 @@ h1.libraryheader.Blur {
   text-align: right;
   padding-top: 0.3rem;
 }
-@media (min-width: 320px) and (max-width: 480px) {
+@media (orientation: portrait) {
   .logoLabel {
     font-size: 4rem;
   }
